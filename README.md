@@ -15,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisEgidio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ <br>
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Kris-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Kris-Laravel" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
