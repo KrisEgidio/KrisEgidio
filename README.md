@@ -7,7 +7,7 @@
 - 💬 Contate-me por e-mail krisegidio@gmail.com
 - ⚡ Fã de one piece!
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/KrisEgidio">
