@@ -5,7 +5,6 @@
 - 🔭 Hoje eu trabalho como desenvolvedora back-end com Laravel e desenvolvedora RPA (automação de processos) com Uipath.
 - 🌱 Atualmente estou estudando java para aprimorar meus conhecimentos em RPA.
 - 💬 Contate-me por e-mail krisegidio@gmail.com
-- ⚡ Fã de one piece!
 
 <br>
 
