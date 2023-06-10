@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 Hoje eu trabalho como desenvolvedora back-end com Laravel e desenvolvedora RPA (automação de processos) com Uipath.
+- 🔭 Hoje eu trabalho como desenvolvedora back-end com Laravel e desenvolvedora RPA (automação de processos) com Java e Python.
 - 🌱 Atualmente estou estudando java para aprimorar meus conhecimentos em RPA.
 - 💬 Visite meu blog https://krisegidio.com.br
 
