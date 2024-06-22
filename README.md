@@ -9,10 +9,3 @@
 💬 Quer saber mais sobre meus projetos e interesses? Visite meu blog: [krisegidio.com.br](https://krisegidio.com.br)
 
 📫 Vamos nos conectar? Sinta-se à vontade para entrar em contato!
-
----
-
-**Linguagens mais usadas:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisegidio&layout=compact&theme=radical)
-
